@@ -1,0 +1,19 @@
+---
+title: "Welcome to my Portfolio"
+---
+
+## Hi, I'm Matthew Prado
+
+I'm a Account Executive pursuing a degree a Master's Degree in Digital Marketing at Cal Poly Pomona
+
+## Featured Projects
+
+## Project 1
+
+## Project 2
+
+## Let's conect
+
+- [LinkedIn](https://www.linkedin.com/in/matthew-prado-880547259/)
+- [GitHub](https://github.com/MattPradoCalPoly)
+- [Email](mailto:pradomatthew74@gmail.com)

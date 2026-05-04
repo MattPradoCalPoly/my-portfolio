@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my Portfolio",
+    "section": "",
+    "text": "I’m a Account Executive pursuing a degree a Master’s Degree in Digital Marketing at Cal Poly Pomona"
+  },
+  {
+    "objectID": "index.html#hi-im-matthew-prado",
+    "href": "index.html#hi-im-matthew-prado",
+    "title": "Welcome to my Portfolio",
+    "section": "",
+    "text": "I’m a Account Executive pursuing a degree a Master’s Degree in Digital Marketing at Cal Poly Pomona"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Welcome to my Portfolio",
+    "section": "Featured Projects",
+    "text": "Featured Projects"
+  },
+  {
+    "objectID": "index.html#project-1",
+    "href": "index.html#project-1",
+    "title": "Welcome to my Portfolio",
+    "section": "Project 1",
+    "text": "Project 1"
+  },
+  {
+    "objectID": "index.html#project-2",
+    "href": "index.html#project-2",
+    "title": "Welcome to my Portfolio",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "index.html#lets-conect",
+    "href": "index.html#lets-conect",
+    "title": "Welcome to my Portfolio",
+    "section": "Let’s conect",
+    "text": "Let’s conect\n\nLinkedIn\nGitHub\nEmail"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Cal Poly Pomona Master’s in Digital Marketing Expected Graduation: July, 2026\nCal Poly Pomona Bachelors in Business Administration, Marketing Graduated: May, 2024"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "Cal Poly Pomona Master’s in Digital Marketing Expected Graduation: July, 2026\nCal Poly Pomona Bachelors in Business Administration, Marketing Graduated: May, 2024"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Resume",
+    "section": "Experience",
+    "text": "Experience\n\nAccount Executive — CYW, Inc.\nMay 2025\n\n\nFulfillment Center Associate — Amazon\nOctober 2021"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "Resume",
+    "section": "Skills",
+    "text": "Skills\n\nLanguages: [e.g. Python, R, JavaScript]\nTools: Microsoft Office, Tableau, GitHub, Google Analytics, Positron\nCertifications: Google Analytics Certified"
+  }
+]
