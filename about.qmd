@@ -30,3 +30,5 @@ Graduated: May, 2024
 - **Languages:** [e.g. Python, R, JavaScript]
 - **Tools:** Microsoft Office, Tableau, GitHub, Google Analytics, Positron
 - **Certifications:** Google Analytics Certified
+
+Testing the resume format in Quarto.
