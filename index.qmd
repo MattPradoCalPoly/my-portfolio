@@ -4,13 +4,27 @@ title: "Welcome to my Portfolio"
 
 ## Hi, I'm Matthew Prado
 
-I'm a Account Executive pursuing a degree a Master's Degree in Digital Marketing at Cal Poly Pomona
+### About Me
+
+I am an account executive with experience in client management, quote generation, order processing, and business development. My background also includes digital analytics and strategic research projects focused on user behavior, SEO peroformance, and customer engagement.
+
+I enjoy combinng, communication, organization, and analytical thinking to help businesses improve processes, strengthen customer relationships,and idenitfy growth opportunities. 
+
+I am currently pursuing a degree in Digital Marketing at Cal Poly Pomona, where I am developing skills in data analysis, digital strategy, and marketing technology. I am passionate about leveraging data-driven insights to drive business success and am excited to connect with professionals in the industry. 
+
+My website serves as a portfolio to showcase my projects, experience, and skills throughout my academic and professional journey. Please feel free to explore and connect with me!
 
 ## Featured Projects
 
-## Project 1
+## Project 1: Trauma Resource Institute Analytics Project
+### Google Analytics + SEO + User Engagement Strategy
 
-## Project 2
+In this project, my team and I analyzed the Trauma Resource Institute's website using Google Analytics to understand user behavior, traffic sources, and engagement patterns. We identified key areas for improvement in SEO performance and developed a strategy to enhance user engagement. Our recommendations included optimizing content for relevant keywords, improving site navigation, and implementing targeted marketing campaigns to increase visibility and drive more traffic to the site.
+
+## Project 2: Trauma Resource Institute Marketing Strategy Project
+### Google Ads + Competitve Analysis + Customer Segmentation + Growth Strategy
+
+In this project, we conducted a comprehensive competitive analysis of the Trauma Resource Institute's market landscape. We used Google Ads to identify effective advertising strategies and performed customer segmentation to understand the target audience better. Based on our findings, we developed a growth strategy that included targeted advertising campaigns, content marketing initiatives, and partnership opportunities to expand the institute's reach and increase engagement with their services.
 
 ## Let's conect
 
