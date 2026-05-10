@@ -1,0 +1,41 @@
+---
+title: "My Resume"
+---
+
+## Education
+
+**Cal Poly Pomona**
+Master's in Digital Marketing
+Expected Graduation: July, 2026
+
+**Cal Poly Pomona**
+Bachelors in Business Administration, Marketing
+Graduated: May, 2024
+
+---
+
+## Experience
+
+### Account Executive — CYW, Inc.
+*May 2025*
+
+- Mannage relationships eith exisiting clients by providing ongoing support, responding to inquiries, and ensuring customer satisfaction
+- Generate pricing quotes tailored to client needs and business reuirements
+- Process customer orders accurately and efficiently while coordinating timelines and resolving order related issues
+- Identified and pursured new business opportunities through outreach, networking, and relationship-building
+- Maintain consistent communication with clients to strengthen retention and encourage repeat business
+- Balance cleint account management with business development efforts in a fast-paced environment
+
+### Fulfillment Center Associate — Amazon
+*October 2021*
+
+- Receive and organize inbound inventory, ensuring accurate stock levels and minimizing discrepancies
+- Inspect products for quality compliance, reducing defects and returns by maintaining high standards
+- Collaborate with team members to efficiently complete daily fulfillment tasks, contributing to overall productivity
+
+---
+
+## Skills
+- **Tools:** Microsoft Office, Tableau, GitHub, Google Analytics, Positron
+- **Certifications:** Google Analytics, Google Ads Search 
+- Cold calling, market research, time management, problem-solving, communication
