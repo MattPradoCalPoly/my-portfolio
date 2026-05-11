@@ -179,6 +179,34 @@
     "href": "digitalprojects.html#google-ads-competitve-analysis-customer-segmentation-growth-strategy",
     "title": "My Projects",
     "section": "Google Ads + Competitve Analysis + Customer Segmentation + Growth Strategy",
-    "text": "Google Ads + Competitve Analysis + Customer Segmentation + Growth Strategy\n\nProject Overview\nDeveloped a strategic digital marketing plan focused on increasing brand awareness, TRM/CRM program visibility, and enhancing engagement through Google Ads and mobile app optimization.\n\n\nProblem/Objective\nThe project aimed to address low brand awareness and engagement for the Trauma Resource Institute’s TRM/CRM programs, with a focus on leveraging digital channels to reach target audiences effectively.\nThe project focused on: - increasing awareness of TRM an CRM trainng programs - improving digital engagement - evaluating website performance - and idenitfying scalable marketing opportunities\n\n\nResponsibilities\n\nCustomer Analysis\nCompetitive Analysis\nMobile App Evaluation\nStrategic Recommendations"
+    "text": "Google Ads + Competitve Analysis + Customer Segmentation + Growth Strategy\n\nProject Overview\nDeveloped a strategic digital marketing plan focused on increasing brand awareness, TRM/CRM program visibility, and enhancing engagement through Google Ads and mobile app optimization.\n\n\nProblem/Objective\nThe project aimed to address low brand awareness and engagement for the Trauma Resource Institute’s TRM/CRM programs, with a focus on leveraging digital channels to reach target audiences effectively.\nThe project focused on: - increasing awareness of TRM an CRM trainng programs - improving digital engagement - evaluating website performance - and idenitfying scalable marketing opportunities\n\n\nResponsibilities\n\nCustomer Analysis\nCompetitive Analysis\nMobile App Evaluation\nStrategic Recommendations\n\n\n\nKey Findings\n\nOrganic search and direct traffic dominated, accounting for nearly all user acquisition\nTRM-related pages had significantly above-average engagement time\nEmail and paid search were severely unerperforming relative to industry benchmarks\nRetention rate stood at 27.7%\nHigh-impression keywords like “resiliency” and “trauma training” had 0% click-through rates"
+  },
+  {
+    "objectID": "analyticsprojects.html",
+    "href": "analyticsprojects.html",
+    "title": "Project 3: Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "",
+    "text": "Conducted a survey to evaluate the customer satisfaction of students eating at Cal Poly Pomona restaurants. Analyzed the data to identify trends and areas for improvement in the dining experience.\n\n\n\nOur research process involved designing a 17-question Qualtrics survey distributed via physical QR-codes flyers and INstagram across November. The survey caputred dining habits, venue experience, and satisfaction acros multiple dimensions using Likert scales, multiple choice, and net promoter score questions.\n\n\n\n\nDescriptive Statistics: We calculated mean satisfaction scores, frequency distributions, and cross-tabulations to summarize the data and identify patterns in student dining preferences and satisfaction levels.\nMultiple & Simple Linear Regression: We used regression analysis to explore the relationships between various factors (e.g., food quality, service speed, menu variety) and overall student satisfaction, allowing us to identify key drivers of satisfaction and areas for improvement.\nChi-Square Test: Examined whether campus presence frequency was related to satisfaction levels\nCluster Segmentatiion: Grouped students into three distinct profiles based on dining behavior\n\n\n\n\n\nFood quality and cleanliness were statiscally significant drivers of student satisfaction\nPrice fairness had a stronger impact on satisfaction than operational factors, contray to the initial hypothesis\nMobile ordering reliability showed a positive but statistically insignificant relationship with satisfaction\nStudents were segmented into three distinct profiles: “Frequent Campus Diners,” “Occasional Diners,” and “Takeout-Focused Diners,” each with unique preferences and satisfaction drivers\nCenterpointe Dining was the most visited venue on campus, followed by Panda Express and Starbucks"
+  },
+  {
+    "objectID": "analyticsprojects.html#customer-insights-data-analysis-strategic-recommendations",
+    "href": "analyticsprojects.html#customer-insights-data-analysis-strategic-recommendations",
+    "title": "Project 3: Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "",
+    "text": "Conducted a survey to evaluate the customer satisfaction of students eating at Cal Poly Pomona restaurants. Analyzed the data to identify trends and areas for improvement in the dining experience.\n\n\n\nOur research process involved designing a 17-question Qualtrics survey distributed via physical QR-codes flyers and INstagram across November. The survey caputred dining habits, venue experience, and satisfaction acros multiple dimensions using Likert scales, multiple choice, and net promoter score questions.\n\n\n\n\nDescriptive Statistics: We calculated mean satisfaction scores, frequency distributions, and cross-tabulations to summarize the data and identify patterns in student dining preferences and satisfaction levels.\nMultiple & Simple Linear Regression: We used regression analysis to explore the relationships between various factors (e.g., food quality, service speed, menu variety) and overall student satisfaction, allowing us to identify key drivers of satisfaction and areas for improvement.\nChi-Square Test: Examined whether campus presence frequency was related to satisfaction levels\nCluster Segmentatiion: Grouped students into three distinct profiles based on dining behavior\n\n\n\n\n\nFood quality and cleanliness were statiscally significant drivers of student satisfaction\nPrice fairness had a stronger impact on satisfaction than operational factors, contray to the initial hypothesis\nMobile ordering reliability showed a positive but statistically insignificant relationship with satisfaction\nStudents were segmented into three distinct profiles: “Frequent Campus Diners,” “Occasional Diners,” and “Takeout-Focused Diners,” each with unique preferences and satisfaction drivers\nCenterpointe Dining was the most visited venue on campus, followed by Panda Express and Starbucks"
+  },
+  {
+    "objectID": "digitalprojects.html#presentation-slides",
+    "href": "digitalprojects.html#presentation-slides",
+    "title": "Digital Marketing Projects",
+    "section": "",
+    "text": "📄 Open Presentation in New Tab"
+  },
+  {
+    "objectID": "digitalprojects.html#presentation-slides-1",
+    "href": "digitalprojects.html#presentation-slides-1",
+    "title": "Digital Marketing Projects",
+    "section": "Presentation Slides",
+    "text": "Presentation Slides\n\n\n 📄 Open Presentation in New Tab"
   }
 ]

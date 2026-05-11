@@ -14,10 +14,9 @@ website:
       - text: Projects
         menu:
           - href: digitalprojects.qmd
-            text: "Project 1: Trauma Resource Institute Analytics Project"
-            text: "Project 2: Trauma Resource Institute Marketing Strategy Project"
+            text: "Digital Marketing Projects"
           - href: analyticsprojects.qmd
-            text: "Project 3: Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants"
+            text: "Marketing Analytics Projects"
 
 format:
   html:

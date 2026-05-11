@@ -1,5 +1,5 @@
 ---
-title: "My Projects"
+title: "Digital Marketing Projects"
 ---
 
 # Project 1: Trauma Resource Institute Analytics Project
@@ -20,7 +20,7 @@ Analyzed website engagement and acquisition performance for Trauma Resource Inst
 ### Key Findings
 
 - Organic Search was the highest-perofroming traffic soruce
-- Training pages showed strongest engagement 
+- Training pages showed strongest engagement
 - Paid search and social channels showed growoth opportunities
 - Recommendations focused on conversion optimization and retnention strategies
 
@@ -28,7 +28,16 @@ Analyzed website engagement and acquisition performance for Trauma Resource Inst
 
 Created strategic recommendations for improving conversions, SEO performance, and user engagement.
 
+## Presentation Slides
+
+<iframe src="../pdfs/IBM6010_Final_Presentation.pdf" width="100%" height="600px" style="border: none; border-radius: 8px;">
+
+</iframe>
+
+<a href="../pdfs/IBM6010_Final_Presentation.pdf" target="_blank"> 📄 Open Presentation in New Tab </a>
+
 # Project 2: Trauma Resource Institute Marketing Strategy Project
+
 ## Google Ads + Competitve Analysis + Customer Segmentation + Growth Strategy
 
 ### Project Overview
@@ -39,11 +48,7 @@ Developed a strategic digital marketing plan focused on increasing brand awarene
 
 The project aimed to address low brand awareness and engagement for the Trauma Resource Institute's TRM/CRM programs, with a focus on leveraging digital channels to reach target audiences effectively.
 
-The project focused on:
-- increasing awareness of TRM an CRM trainng programs
-- improving digital engagement
-- evaluating website performance
-- and idenitfying scalable marketing opportunities
+The project focused on: - increasing awareness of TRM an CRM trainng programs - improving digital engagement - evaluating website performance - and idenitfying scalable marketing opportunities
 
 ### Responsibilities
 
@@ -60,3 +65,10 @@ The project focused on:
 - Retention rate stood at 27.7%
 - High-impression keywords like "resiliency" and "trauma training" had 0% click-through rates
 
+## Presentation Slides
+
+<iframe src="../pdfs/IBM6100_Final_Presentation.pdf" width="100%" height="600px" style="border: none; border-radius: 8px;">
+
+</iframe>
+
+<a href="../pdfs/IBM6100_Final_Presentation.pdf" target="_blank"> 📄 Open Presentation in New Tab </a>
