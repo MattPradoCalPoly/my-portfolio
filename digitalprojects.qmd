@@ -4,11 +4,11 @@ title: "Digital Marketing Projects"
 
 # Project 1: Trauma Resource Institute Analytics Project
 
-## Google Analytics + SEO + User Engagement Strategy
+## Google Analytics + SEO + User Engagement Strategy + Mobile App
 
 ### Project Overview
 
-Analyzed website engagement and acquisition performance for Trauma Resource Institute using Google Analytics, Google Tag Manager, and Square Space data.
+Analyzed website engagement and acquisition performance for Trauma Resource Institute using Google Analytics, Google Tag Manager, and Square Space data. As well as focus on recommendations for mobile app
 
 ### Responsibiillities
 
@@ -28,13 +28,14 @@ Analyzed website engagement and acquisition performance for Trauma Resource Inst
 
 Created strategic recommendations for improving conversions, SEO performance, and user engagement.
 
-### Presentation Slides
+### Slides
 
-<iframe src="../pdfs/IBM6010_Final_Presentation.pdf" width="100%" height="600px" style="border: none; border-radius: 8px;">
-
-</iframe>
-
-<a href="../pdfs/IBM6010_Final_Presentation.pdf" target="_blank"> 📄 Open Presentation in New Tab </a>
+|                         |                         |                        |
+|-------------------------|-------------------------|------------------------|
+| ![](images/6010_1.png)  | ![](images/6010_2.png)  | ![](images/6010_3.png) |
+| ![](images/6010_4.png)  | ![](images/6010_5.png)  | ![](images/6010_6.png) |
+| ![](images/6010_7.png)  | ![](images/6010_8.png)  | ![](images/6010_9.png) |
+| ![](images/6010_10.png) | ![](images/6010_12.png) |                        |
 
 # Project 2: Trauma Resource Institute Marketing Strategy Project
 
@@ -65,10 +66,9 @@ The project focused on: - increasing awareness of TRM an CRM trainng programs - 
 - Retention rate stood at 27.7%
 - High-impression keywords like "resiliency" and "trauma training" had 0% click-through rates
 
-### Presentation Slides
+### Slides
 
-<iframe src="../pdfs/IBM6100_Final_Presentation.pdf" width="100%" height="600px" style="border: none; border-radius: 8px;">
-
-</iframe>
-
-<a href="../pdfs/IBM6100_Final_Presentation.pdf" target="_blank"> 📄 Open Presentation in New Tab </a>
+|                        |                        |                        |
+|------------------------|------------------------|------------------------|
+| ![](images/6100_1.png) | ![](images/6100_2.png) | ![](images/6100_3.png) |
+| ![](images/6100_4.png) | ![](images/6100_5.png) | ![](images/6100_6.png) |
