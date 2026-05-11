@@ -31,9 +31,9 @@ Our research process involved designing a 17-question Qualtrics survey distribut
 
 ### Slides
 
-|                         |                        |                        |
+|  |  |  |
 |-------------------------|------------------------|------------------------|
-| ![](images/6500_1.png)  | ![](images/6500_2.png) | ![](images/6500_3.png) |
-| ![](images/6500_4.png)  | ![](images/6500_5.png) | ![](images/6500_6.png) |
-| ![](images/6500_7.png)  | ![](images/6500_8.png) | ![](images/6500_9.png) |
-| ![](images/6500_10.png) |                        |                        |
+| ![](images/6500_1.png){width="327"} | ![](images/6500_2.png) | ![](images/6500_3.png) |
+| ![](images/6500_4.png) | ![](images/6500_5.png) | ![](images/6500_6.png) |
+| ![](images/6500_7.png) | ![](images/6500_8.png) | ![](images/6500_9.png) |
+| ![](images/6500_10.png) |  |  |
