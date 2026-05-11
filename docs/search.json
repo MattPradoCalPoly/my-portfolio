@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Welcome to my Portfolio",
     "section": "",
-    "text": "I’m a Account Executive pursuing a degree a Master’s Degree in Digital Marketing at Cal Poly Pomona"
+    "text": "I am an account executive with experience in client management, quote generation, order processing, and business development. My background also includes digital analytics and strategic research projects focused on user behavior, SEO peroformance, and customer engagement.\nI enjoy combinng, communication, organization, and analytical thinking to help businesses improve processes, strengthen customer relationships,and idenitfy growth opportunities.\nI am currently pursuing a degree in Digital Marketing at Cal Poly Pomona, where I am developing skills in data analysis, digital strategy, and marketing technology. I am passionate about leveraging data-driven insights to drive business success and am excited to connect with professionals in the industry.\nMy website serves as a portfolio to showcase my projects, experience, and skills throughout my academic and professional journey. Please feel free to explore and connect with me!"
   },
   {
     "objectID": "index.html#hi-im-matthew-prado",
     "href": "index.html#hi-im-matthew-prado",
     "title": "Welcome to my Portfolio",
     "section": "",
-    "text": "I’m a Account Executive pursuing a degree a Master’s Degree in Digital Marketing at Cal Poly Pomona"
+    "text": "I am an account executive with experience in client management, quote generation, order processing, and business development. My background also includes digital analytics and strategic research projects focused on user behavior, SEO peroformance, and customer engagement.\nI enjoy combinng, communication, organization, and analytical thinking to help businesses improve processes, strengthen customer relationships,and idenitfy growth opportunities.\nI am currently pursuing a degree in Digital Marketing at Cal Poly Pomona, where I am developing skills in data analysis, digital strategy, and marketing technology. I am passionate about leveraging data-driven insights to drive business success and am excited to connect with professionals in the industry.\nMy website serves as a portfolio to showcase my projects, experience, and skills throughout my academic and professional journey. Please feel free to explore and connect with me!"
   },
   {
     "objectID": "index.html#featured-projects",
@@ -68,5 +68,68 @@
     "title": "Resume",
     "section": "Skills",
     "text": "Skills\n\nLanguages: [e.g. Python, R, JavaScript]\nTools: Microsoft Office, Tableau, GitHub, Google Analytics, Positron\nCertifications: Google Analytics Certified"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Analyzed website engagement and acquisition performance for Trauma Resource Institute using Google Analytics, Google Tag Manager, and Square Space data.\n\n\n\n\nEvaluated user acquisition channels\nAnalyzed engagement behavior\nIdentified SEO opportunities\nDeveloped strategic recommendations\n\n\n\n\n\nOrganic Search was the highest-perofroming traffic soruce\nTraining pages showed strongest engagement\nPaid search and social channels showed growoth opportunities\nRecommendations focused on conversion optimization and retnention strategies\n\n\n\n\nCreated strategic recommendations for improving conversions, SEO performance, and user engagement."
+  },
+  {
+    "objectID": "projects.html#google-analytics-seo-user-engagement-strategy",
+    "href": "projects.html#google-analytics-seo-user-engagement-strategy",
+    "title": "My Projects",
+    "section": "",
+    "text": "Analyzed website engagement and acquisition performance for Trauma Resource Institute using Google Analytics, Google Tag Manager, and Square Space data.\n\n\n\n\nEvaluated user acquisition channels\nAnalyzed engagement behavior\nIdentified SEO opportunities\nDeveloped strategic recommendations\n\n\n\n\n\nOrganic Search was the highest-perofroming traffic soruce\nTraining pages showed strongest engagement\nPaid search and social channels showed growoth opportunities\nRecommendations focused on conversion optimization and retnention strategies\n\n\n\n\nCreated strategic recommendations for improving conversions, SEO performance, and user engagement."
+  },
+  {
+    "objectID": "projects.html#google-ads-competitve-analysis-customer-segmentation-growth-strategy",
+    "href": "projects.html#google-ads-competitve-analysis-customer-segmentation-growth-strategy",
+    "title": "My Projects",
+    "section": "Google Ads + Competitve Analysis + Customer Segmentation + Growth Strategy",
+    "text": "Google Ads + Competitve Analysis + Customer Segmentation + Growth Strategy\n\nProject Overview\nDeveloped a strategic digital marketing plan focused on increasing brand awareness, TRM/CRM program visibility, and enhancing engagement through Google Ads and mobile app optimization.\n\n\nProblem/Objective\nThe project aimed to address low brand awareness and engagement for the Trauma Resource Institute’s TRM/CRM programs, with a focus on leveraging digital channels to reach target audiences effectively.\nThe project focused on: - increasing awareness of TRM an CRM trainng programs - improving digital engagement - evaluating website performance - and idenitfying scalable marketing opportunities\n\n\nResponsibilities\n\nCustomer Analysis\nCompetitive Analysis\nMobile App Evaluation\nStrategic Recommendations"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "My Resume",
+    "section": "",
+    "text": "Cal Poly Pomona Master’s in Digital Marketing Expected Graduation: July, 2026\nCal Poly Pomona Bachelors in Business Administration, Marketing Graduated: May, 2024"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "My Resume",
+    "section": "",
+    "text": "Cal Poly Pomona Master’s in Digital Marketing Expected Graduation: July, 2026\nCal Poly Pomona Bachelors in Business Administration, Marketing Graduated: May, 2024"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "My Resume",
+    "section": "Experience",
+    "text": "Experience\n\nAccount Executive — CYW, Inc.\nMay 2025\n\nMannage relationships eith exisiting clients by providing ongoing support, responding to inquiries, and ensuring customer satisfaction\nGenerate pricing quotes tailored to client needs and business reuirements\nProcess customer orders accurately and efficiently while coordinating timelines and resolving order related issues\nIdentified and pursured new business opportunities through outreach, networking, and relationship-building\nMaintain consistent communication with clients to strengthen retention and encourage repeat business\nBalance cleint account management with business development efforts in a fast-paced environment\n\n\n\nFulfillment Center Associate — Amazon\nOctober 2021\n\nReceive and organize inbound inventory, ensuring accurate stock levels and minimizing discrepancies\nInspect products for quality compliance, reducing defects and returns by maintaining high standards\nCollaborate with team members to efficiently complete daily fulfillment tasks, contributing to overall productivity"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "My Resume",
+    "section": "Skills",
+    "text": "Skills\n\nTools: Microsoft Office, Tableau, GitHub, Google Analytics, Positron\nCertifications: Google Analytics, Google Ads Search\nCold calling, market research, time management, problem-solving, communication"
+  },
+  {
+    "objectID": "index.html#project-1-trauma-resource-institute-analytics-project",
+    "href": "index.html#project-1-trauma-resource-institute-analytics-project",
+    "title": "Welcome to my Portfolio",
+    "section": "Project 1: Trauma Resource Institute Analytics Project",
+    "text": "Project 1: Trauma Resource Institute Analytics Project\n\nGoogle Analytics + SEO + User Engagement Strategy\nIn this project, my team and I analyzed the Trauma Resource Institute’s website using Google Analytics to understand user behavior, traffic sources, and engagement patterns. We identified key areas for improvement in SEO performance and developed a strategy to enhance user engagement. Our recommendations included optimizing content for relevant keywords, improving site navigation, and implementing targeted marketing campaigns to increase visibility and drive more traffic to the site."
+  },
+  {
+    "objectID": "index.html#project-2-trauma-resource-institute-marketing-strategy-project",
+    "href": "index.html#project-2-trauma-resource-institute-marketing-strategy-project",
+    "title": "Welcome to my Portfolio",
+    "section": "Project 2: Trauma Resource Institute Marketing Strategy Project",
+    "text": "Project 2: Trauma Resource Institute Marketing Strategy Project\n\nGoogle Ads + Competitve Analysis + Customer Segmentation + Growth Strategy\nIn this project, we conducted a comprehensive competitive analysis of the Trauma Resource Institute’s market landscape. We used Google Ads to identify effective advertising strategies and performed customer segmentation to understand the target audience better. Based on our findings, we developed a growth strategy that included targeted advertising campaigns, content marketing initiatives, and partnership opportunities to expand the institute’s reach and increase engagement with their services."
   }
 ]
