@@ -29,7 +29,7 @@ Our research process involved designing a 17-question Qualtrics survey distribut
 - Students were segmented into three distinct profiles: "Frequent Campus Diners," "Occasional Diners," and "Takeout-Focused Diners," each with unique preferences and satisfaction drivers
 - Centerpointe Dining was the most visited venue on campus, followed by Panda Express and Starbucks
 
-## Presentation Slides
+### Presentation Slides
 
 <iframe src="../pdfs/IBM6500_Final_Presentation.pdf" width="100%" height="600px" style="border: none; border-radius: 8px;">
 
