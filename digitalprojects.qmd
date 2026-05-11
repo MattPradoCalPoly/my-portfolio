@@ -51,3 +51,12 @@ The project focused on:
 - Competitive Analysis
 - Mobile App Evaluation
 - Strategic Recommendations
+
+### Key Findings
+
+- Organic search and direct traffic dominated, accounting for nearly all user acquisition
+- TRM-related pages had significantly above-average engagement time
+- Email and paid search were severely unerperforming relative to industry benchmarks
+- Retention rate stood at 27.7%
+- High-impression keywords like "resiliency" and "trauma training" had 0% click-through rates
+

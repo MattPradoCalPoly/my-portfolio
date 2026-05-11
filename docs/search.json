@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my Portfolio",
+    "title": "Hi, I’m Matthew Prado",
     "section": "",
     "text": "I am an account executive with experience in client management, quote generation, order processing, and business development. My background also includes digital analytics and strategic research projects focused on user behavior, SEO peroformance, and customer engagement.\nI enjoy combinng, communication, organization, and analytical thinking to help businesses improve processes, strengthen customer relationships,and idenitfy growth opportunities.\nI am currently pursuing a degree in Digital Marketing at Cal Poly Pomona, where I am developing skills in data analysis, digital strategy, and marketing technology. I am passionate about leveraging data-driven insights to drive business success and am excited to connect with professionals in the industry.\nMy website serves as a portfolio to showcase my projects, experience, and skills throughout my academic and professional journey. Please feel free to explore and connect with me!"
   },
@@ -16,7 +16,7 @@
   {
     "objectID": "index.html#featured-projects",
     "href": "index.html#featured-projects",
-    "title": "Welcome to my Portfolio",
+    "title": "Hi, I’m Matthew Prado",
     "section": "Featured Projects",
     "text": "Featured Projects"
   },
@@ -37,7 +37,7 @@
   {
     "objectID": "index.html#lets-conect",
     "href": "index.html#lets-conect",
-    "title": "Welcome to my Portfolio",
+    "title": "Hi, I’m Matthew Prado",
     "section": "Let’s conect",
     "text": "Let’s conect\n\nLinkedIn\nGitHub\nEmail"
   },
@@ -121,15 +121,64 @@
   {
     "objectID": "index.html#project-1-trauma-resource-institute-analytics-project",
     "href": "index.html#project-1-trauma-resource-institute-analytics-project",
-    "title": "Welcome to my Portfolio",
+    "title": "Hi, I’m Matthew Prado",
     "section": "Project 1: Trauma Resource Institute Analytics Project",
     "text": "Project 1: Trauma Resource Institute Analytics Project\n\nGoogle Analytics + SEO + User Engagement Strategy\nIn this project, my team and I analyzed the Trauma Resource Institute’s website using Google Analytics to understand user behavior, traffic sources, and engagement patterns. We identified key areas for improvement in SEO performance and developed a strategy to enhance user engagement. Our recommendations included optimizing content for relevant keywords, improving site navigation, and implementing targeted marketing campaigns to increase visibility and drive more traffic to the site."
   },
   {
     "objectID": "index.html#project-2-trauma-resource-institute-marketing-strategy-project",
     "href": "index.html#project-2-trauma-resource-institute-marketing-strategy-project",
-    "title": "Welcome to my Portfolio",
+    "title": "Hi, I’m Matthew Prado",
     "section": "Project 2: Trauma Resource Institute Marketing Strategy Project",
     "text": "Project 2: Trauma Resource Institute Marketing Strategy Project\n\nGoogle Ads + Competitve Analysis + Customer Segmentation + Growth Strategy\nIn this project, we conducted a comprehensive competitive analysis of the Trauma Resource Institute’s market landscape. We used Google Ads to identify effective advertising strategies and performed customer segmentation to understand the target audience better. Based on our findings, we developed a growth strategy that included targeted advertising campaigns, content marketing initiatives, and partnership opportunities to expand the institute’s reach and increase engagement with their services."
+  },
+  {
+    "objectID": "index.html#project-3-customer-satisfaction-of-students-eating-at-cal-poly-pomona-restaurants",
+    "href": "index.html#project-3-customer-satisfaction-of-students-eating-at-cal-poly-pomona-restaurants",
+    "title": "Hi, I’m Matthew Prado",
+    "section": "Project 3: Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "text": "Project 3: Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants\n\nCustomer Insights + Data Analysis + Strategic Recommendations\nIn this project we conducted a survey to evaluate the customer satisfaction of students eating at Cal Poly Pomona restaurants. We analyzed the data to identify trends and areas for improvement in the dining experience. Our findings highlighted key factors that influence student satisfaction, such as food quality, service speed, and menu variety. Based on our analysis, we provided recommendations to enhance the overall dining experience for students on campus."
+  },
+  {
+    "objectID": "index.html#welcome-to-my-potfolio",
+    "href": "index.html#welcome-to-my-potfolio",
+    "title": "Hi, I’m Matthew Prado",
+    "section": "",
+    "text": "I am an account executive with experience in client management, quote generation, order processing, and business development. My background also includes digital analytics and strategic research projects focused on user behavior, SEO peroformance, and customer engagement.\nI enjoy combinng, communication, organization, and analytical thinking to help businesses improve processes, strengthen customer relationships,and idenitfy growth opportunities.\nI am currently pursuing a degree in Digital Marketing at Cal Poly Pomona, where I am developing skills in data analysis, digital strategy, and marketing technology. I am passionate about leveraging data-driven insights to drive business success and am excited to connect with professionals in the industry.\nMy website serves as a portfolio to showcase my projects, experience, and skills throughout my academic and professional journey. Please feel free to explore and connect with me!"
+  },
+  {
+    "objectID": "analyticspojects.html",
+    "href": "analyticspojects.html",
+    "title": "Project 3: Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "",
+    "text": "Conducted a survey to evaluate the customer satisfaction of students eating at Cal Poly Pomona restaurants. Analyzed the data to identify trends and areas for improvement in the dining experience.\n\n\n\nOur research process involved designing a 17-question Qualtrics survey distributed via physical QR-codes flyers and INstagram across November. The survey caputred dining habits, venue experience, and satisfaction acros multiple dimensions using Likert scales, multiple choice, and net promoter score questions.\n\n\n\n\nDescriptive Statistics: We calculated mean satisfaction scores, frequency distributions, and cross-tabulations to summarize the data and identify patterns in student dining preferences and satisfaction levels.\nMultiple & Simple Linear Regression: We used regression analysis to explore the relationships between various factors (e.g., food quality, service speed, menu variety) and overall student satisfaction, allowing us to identify key drivers of satisfaction and areas for improvement.\nChi-Square Test: Examined whether campus presence frequency was related to satisfaction levels\nCluster Segmentatiion: Grouped students into three distinct profiles based on dining behavior\n\n\n\n\n\nFood quality and cleanliness were statiscally significant drivers of student satisfaction\nPrice fairness had a stronger impact on satisfaction than operational factors, contray to the initial hypothesis\nMobile ordering reliability showed a positive but statistically insignificant relationship with satisfaction\nStudents were segmented into three distinct profiles: “Frequent Campus Diners,” “Occasional Diners,” and “Takeout-Focused Diners,” each with unique preferences and satisfaction drivers\nCenterpointe Dining was the most visited venue on campus, followed by Panda Express and Starbucks"
+  },
+  {
+    "objectID": "analyticspojects.html#customer-insights-data-analysis-strategic-recommendations",
+    "href": "analyticspojects.html#customer-insights-data-analysis-strategic-recommendations",
+    "title": "Project 3: Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "",
+    "text": "Conducted a survey to evaluate the customer satisfaction of students eating at Cal Poly Pomona restaurants. Analyzed the data to identify trends and areas for improvement in the dining experience.\n\n\n\nOur research process involved designing a 17-question Qualtrics survey distributed via physical QR-codes flyers and INstagram across November. The survey caputred dining habits, venue experience, and satisfaction acros multiple dimensions using Likert scales, multiple choice, and net promoter score questions.\n\n\n\n\nDescriptive Statistics: We calculated mean satisfaction scores, frequency distributions, and cross-tabulations to summarize the data and identify patterns in student dining preferences and satisfaction levels.\nMultiple & Simple Linear Regression: We used regression analysis to explore the relationships between various factors (e.g., food quality, service speed, menu variety) and overall student satisfaction, allowing us to identify key drivers of satisfaction and areas for improvement.\nChi-Square Test: Examined whether campus presence frequency was related to satisfaction levels\nCluster Segmentatiion: Grouped students into three distinct profiles based on dining behavior\n\n\n\n\n\nFood quality and cleanliness were statiscally significant drivers of student satisfaction\nPrice fairness had a stronger impact on satisfaction than operational factors, contray to the initial hypothesis\nMobile ordering reliability showed a positive but statistically insignificant relationship with satisfaction\nStudents were segmented into three distinct profiles: “Frequent Campus Diners,” “Occasional Diners,” and “Takeout-Focused Diners,” each with unique preferences and satisfaction drivers\nCenterpointe Dining was the most visited venue on campus, followed by Panda Express and Starbucks"
+  },
+  {
+    "objectID": "digitalprojects.html",
+    "href": "digitalprojects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Analyzed website engagement and acquisition performance for Trauma Resource Institute using Google Analytics, Google Tag Manager, and Square Space data.\n\n\n\n\nEvaluated user acquisition channels\nAnalyzed engagement behavior\nIdentified SEO opportunities\nDeveloped strategic recommendations\n\n\n\n\n\nOrganic Search was the highest-perofroming traffic soruce\nTraining pages showed strongest engagement\nPaid search and social channels showed growoth opportunities\nRecommendations focused on conversion optimization and retnention strategies\n\n\n\n\nCreated strategic recommendations for improving conversions, SEO performance, and user engagement."
+  },
+  {
+    "objectID": "digitalprojects.html#google-analytics-seo-user-engagement-strategy",
+    "href": "digitalprojects.html#google-analytics-seo-user-engagement-strategy",
+    "title": "My Projects",
+    "section": "",
+    "text": "Analyzed website engagement and acquisition performance for Trauma Resource Institute using Google Analytics, Google Tag Manager, and Square Space data.\n\n\n\n\nEvaluated user acquisition channels\nAnalyzed engagement behavior\nIdentified SEO opportunities\nDeveloped strategic recommendations\n\n\n\n\n\nOrganic Search was the highest-perofroming traffic soruce\nTraining pages showed strongest engagement\nPaid search and social channels showed growoth opportunities\nRecommendations focused on conversion optimization and retnention strategies\n\n\n\n\nCreated strategic recommendations for improving conversions, SEO performance, and user engagement."
+  },
+  {
+    "objectID": "digitalprojects.html#google-ads-competitve-analysis-customer-segmentation-growth-strategy",
+    "href": "digitalprojects.html#google-ads-competitve-analysis-customer-segmentation-growth-strategy",
+    "title": "My Projects",
+    "section": "Google Ads + Competitve Analysis + Customer Segmentation + Growth Strategy",
+    "text": "Google Ads + Competitve Analysis + Customer Segmentation + Growth Strategy\n\nProject Overview\nDeveloped a strategic digital marketing plan focused on increasing brand awareness, TRM/CRM program visibility, and enhancing engagement through Google Ads and mobile app optimization.\n\n\nProblem/Objective\nThe project aimed to address low brand awareness and engagement for the Trauma Resource Institute’s TRM/CRM programs, with a focus on leveraging digital channels to reach target audiences effectively.\nThe project focused on: - increasing awareness of TRM an CRM trainng programs - improving digital engagement - evaluating website performance - and idenitfying scalable marketing opportunities\n\n\nResponsibilities\n\nCustomer Analysis\nCompetitive Analysis\nMobile App Evaluation\nStrategic Recommendations"
   }
 ]
