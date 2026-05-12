@@ -333,7 +333,7 @@
     "href": "tri-google-analytics.html#key-findings",
     "title": "Behind the Scenes with Google Analytics",
     "section": "Key Findings",
-    "text": "Key Findings\n\nOrganic search & direct traffic account for nearly all acquisition\nTRM-related pages show significantly above-average engagement\nEmail engagement: 2 users, 22.22% engagement rate (benchmark: 66%)\nPaid Search: only 17 users, 27.27% engagement rate\nHigh-impression keywords like “resiliency” had 0% click-through rates"
+    "text": "Key Findings\n\nOrganic search & direct traffic account for nearly all acquisition\nTRM-related pages show significantly above-average engagement\nEmail engagement: 2 users, 22.22% rate (benchmark: 66%)\nPaid Search: only 17 users, 27.27% engagement rate\nHigh-impression keywords like “resiliency” had 0% click-through rates"
   },
   {
     "objectID": "tri-google-analytics.html#recommendations",
@@ -501,7 +501,7 @@
     "href": "tri-digital-marketing-strategy.html#competitive-analysis-driven-resilience",
     "title": "Trauma Resource Institute — Digital Marketing Strategy",
     "section": "Competitive Analysis — Driven Resilience",
-    "text": "Competitive Analysis — Driven Resilience\nDriven Resilience App\n\nAvailable on App Store and Google Play\nMore feature-rich: mood tracking, resilience scoring, daily skill-building\nUses PR6 resilience model\nStronger focus on brand building and program promotion\nKey gap TRI has: neither competitor promotes training directly in-app as effectively"
+    "text": "Competitive Analysis — Driven Resilience\nDriven Resilience App\n\nAvailable on App Store and Google Play\nMore feature-rich: mood tracking, resilience scoring, daily skill-building\nUses PR6 resilience model\nStronger focus on brand building and program promotion\nKey gap TRI has: competitors promote training directly in-app more effectively"
   },
   {
     "objectID": "tri-digital-marketing-strategy.html#customer-segments",
@@ -543,7 +543,7 @@
     "href": "tri-digital-marketing-strategy.html#recommendation-3-seo-improvements",
     "title": "Trauma Resource Institute — Digital Marketing Strategy",
     "section": "Recommendation 3 — SEO Improvements",
-    "text": "Recommendation 3 — SEO Improvements\n\nRewrite meta titles and descriptions to match search intent\n\nChange “Resiliency” → “Trauma Resilience Training Programs”\n\nCreate blog content targeting long-tail keywords\n\nExample: “How TRM Training Helps Educators”\n\nImprove internal linking from high-traffic pages to training pages\nBuild dedicated pages for: “CRM certification for therapists” and “TRM training for educators”"
+    "text": "Recommendation 3 — SEO Improvements\n\nRewrite meta titles and descriptions to match search intent\nCreate blog content targeting long-tail keywords\n\nExample: “How TRM Training Helps Educators”\n\nImprove internal linking from high-traffic pages to training pages\nBuild dedicated pages for:\n\n“CRM certification for therapists”\n“TRM training for educators”"
   },
   {
     "objectID": "tri-google-analytics.html#acquisition-overview",
@@ -677,5 +677,180 @@
     "title": "Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
     "section": "Limitations",
     "text": "Limitations\n\nSample size: 68 respondents via convenience sampling\nSingle institution & timeframe: One university, one semester\nSelf-report bias: Recall and social desirability bias possible\nMeasurement depth: Some constructs captured with too few items\nLimited qualitative data: Minimal open-ended responses"
+  },
+  {
+    "objectID": "my-portfolio/tri-google-analytics.html",
+    "href": "my-portfolio/tri-google-analytics.html",
+    "title": "Behind the Scenes with Google Analytics",
+    "section": "",
+    "text": "A data analytics project analyzing real user behavior and website performance for TRI (Trauma Resource Institute).\n\nData sources: Google Analytics 4, Google Tag Manager, Squarespace\nTimeframe: February – April (3 months)\nGoal: Identify trends in user behavior, acquisition, demographics, and landing page performance"
+  },
+  {
+    "objectID": "my-portfolio/tri-google-analytics.html#project-overview",
+    "href": "my-portfolio/tri-google-analytics.html#project-overview",
+    "title": "Behind the Scenes with Google Analytics",
+    "section": "",
+    "text": "A data analytics project analyzing real user behavior and website performance for TRI (Trauma Resource Institute).\n\nData sources: Google Analytics 4, Google Tag Manager, Squarespace\nTimeframe: February – April (3 months)\nGoal: Identify trends in user behavior, acquisition, demographics, and landing page performance"
+  },
+  {
+    "objectID": "my-portfolio/tri-google-analytics.html#tools-data-sources",
+    "href": "my-portfolio/tri-google-analytics.html#tools-data-sources",
+    "title": "Behind the Scenes with Google Analytics",
+    "section": "Tools & Data Sources",
+    "text": "Tools & Data Sources\n\nGoogle Analytics 4 (GA4)\nGoogle Tag Manager\nSquarespace\nHotjar (recommended)\nGoogle Optimize (recommended for A/B testing)"
+  },
+  {
+    "objectID": "my-portfolio/tri-google-analytics.html#acquisition-overview",
+    "href": "my-portfolio/tri-google-analytics.html#acquisition-overview",
+    "title": "Behind the Scenes with Google Analytics",
+    "section": "Acquisition Overview",
+    "text": "Acquisition Overview\n\n\n\nMetric\nValue\n\n\n\n\nActive Users\n2,300\n\n\nNew Users\n2,100\n\n\nReturning Users\n582\n\n\nRetention Rate\n27.7%\n\n\nMost Active Days\nApril 23–24 (57 users)\n\n\n\n\nHigher engagement in the middle to end of each month\nLower engagement at the beginning of each month"
+  },
+  {
+    "objectID": "my-portfolio/tri-google-analytics.html#traffic-sources",
+    "href": "my-portfolio/tri-google-analytics.html#traffic-sources",
+    "title": "Behind the Scenes with Google Analytics",
+    "section": "Traffic Sources",
+    "text": "Traffic Sources\n\n\n\nChannel\nSessions\n\n\n\n\nOrganic Search\n2,200\n\n\nDirect\n1,500\n\n\nReferral\n208\n\n\nOrganic Social\n84\n\n\nPaid Search\n34\n\n\nEmail\n10\n\n\n\n\nOrganic Search & Direct traffic dominate\nSocial, Paid Search, and Email are significantly underdeveloped"
+  },
+  {
+    "objectID": "my-portfolio/tri-google-analytics.html#user-demographics",
+    "href": "my-portfolio/tri-google-analytics.html#user-demographics",
+    "title": "Behind the Scenes with Google Analytics",
+    "section": "User Demographics",
+    "text": "User Demographics\n\n87%+ of new users are U.S.-based\nFemale users (366) had the highest avg. session time: 146.5 seconds\nUnknown users averaged only 93.0 seconds — lower engagement\n80%+ of age data marked “unknown” due to privacy settings\nKnown users mostly aged 25–44 — strong digital audience"
+  },
+  {
+    "objectID": "my-portfolio/tri-google-analytics.html#landing-page-performance",
+    "href": "my-portfolio/tri-google-analytics.html#landing-page-performance",
+    "title": "Behind the Scenes with Google Analytics",
+    "section": "Landing Page Performance",
+    "text": "Landing Page Performance\n\n\n\nPage\nNew Users\n\n\n\n\nHomepage\n486\n\n\n/crm\n394\n\n\n/ichill\n300\n\n\n/trm\n194\n\n\n/trm-trainings\n54\n\n\n/crm-trainings\n33\n\n\n\n\nTraining pages have low traffic despite high intent\nNeed better SEO and internal linking"
+  },
+  {
+    "objectID": "my-portfolio/tri-google-analytics.html#engagement-metrics",
+    "href": "my-portfolio/tri-google-analytics.html#engagement-metrics",
+    "title": "Behind the Scenes with Google Analytics",
+    "section": "Engagement Metrics",
+    "text": "Engagement Metrics\n\n9,210 page views — strong content visibility\n8,542 engagement events from 2,138 users\n3,940 session starts — indicates repeat visits\n1,678 scrolls by 949 users — deep content engagement\nTRM pages avg. 1 min 52 sec vs. 57 sec site average"
+  },
+  {
+    "objectID": "my-portfolio/tri-google-analytics.html#key-findings",
+    "href": "my-portfolio/tri-google-analytics.html#key-findings",
+    "title": "Behind the Scenes with Google Analytics",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nOrganic search & direct traffic account for nearly all acquisition\nTRM-related pages show significantly above-average engagement\nEmail engagement: 2 users, 22.22% rate (benchmark: 66%)\nPaid Search: only 17 users, 27.27% engagement rate\nHigh-impression keywords like “resiliency” had 0% click-through rates"
+  },
+  {
+    "objectID": "my-portfolio/tri-google-analytics.html#recommendations",
+    "href": "my-portfolio/tri-google-analytics.html#recommendations",
+    "title": "Behind the Scenes with Google Analytics",
+    "section": "Recommendations",
+    "text": "Recommendations\n1. Optimize Landing Pages Clear CTAs, trust signals, A/B testing\n2. Enhance SEO Rewrite metadata, create dedicated training pages, target long-tail keywords\n3. Leverage Google Ads Target high-intent keywords, geo-targeting, retargeting\n4. Improve Demographic Tracking Optional surveys, enhanced GA4 tracking\n5. Boost Email & Social Monthly newsletter, repurpose top content for LinkedIn & Instagram"
+  },
+  {
+    "objectID": "my-portfolio/tri-google-analytics.html#conclusion",
+    "href": "my-portfolio/tri-google-analytics.html#conclusion",
+    "title": "Behind the Scenes with Google Analytics",
+    "section": "Conclusion",
+    "text": "Conclusion\nTRI’s website showed strong organic performance with a core audience of U.S.-based females aged 25–44.\nBy focusing on:\n\nImproved CTAs and landing pages\nSEO optimization\nPaid search campaigns\nBetter demographic tracking\n\nTRI can increase conversions and better promote CRM and TRM training programs."
+  },
+  {
+    "objectID": "my-portfolio/tri-google-analytics.html#challenges",
+    "href": "my-portfolio/tri-google-analytics.html#challenges",
+    "title": "Behind the Scenes with Google Analytics",
+    "section": "Challenges",
+    "text": "Challenges\n\nData Gaps: 80%+ of demographic data unknown\nConversion Tracking: Unable to analyze full conversion paths\nTime Constraints: Only 3 months of data available"
+  },
+  {
+    "objectID": "my-portfolio/tri-digital-marketing-strategy.html",
+    "href": "my-portfolio/tri-digital-marketing-strategy.html",
+    "title": "Trauma Resource Institute — Digital Marketing Strategy",
+    "section": "",
+    "text": "A comprehensive digital marketing strategy for TRI (Trauma Resource Institute) — a global nonprofit founded in 2006.\n\nAssessed TRI’s current digital marketing practices\nAnalyzed competitors in the trauma resilience space\nSegmented customers and mapped their journey\nDelivered actionable recommendations for growth"
+  },
+  {
+    "objectID": "my-portfolio/tri-digital-marketing-strategy.html#project-overview",
+    "href": "my-portfolio/tri-digital-marketing-strategy.html#project-overview",
+    "title": "Trauma Resource Institute — Digital Marketing Strategy",
+    "section": "",
+    "text": "A comprehensive digital marketing strategy for TRI (Trauma Resource Institute) — a global nonprofit founded in 2006.\n\nAssessed TRI’s current digital marketing practices\nAnalyzed competitors in the trauma resilience space\nSegmented customers and mapped their journey\nDelivered actionable recommendations for growth"
+  },
+  {
+    "objectID": "my-portfolio/tri-digital-marketing-strategy.html#about-tri",
+    "href": "my-portfolio/tri-digital-marketing-strategy.html#about-tri",
+    "title": "Trauma Resource Institute — Digital Marketing Strategy",
+    "section": "About TRI",
+    "text": "About TRI\n\nFounded: October 2006\nMission: Build resilient, trauma-informed individuals and communities worldwide\nUses neuroscience and body awareness techniques\n\nTwo flagship programs:\n\nTRM — Trauma Resiliency Model (for mental health professionals)\nCRM — Community Resiliency Model (for community leaders & public health)"
+  },
+  {
+    "objectID": "my-portfolio/tri-digital-marketing-strategy.html#mission-vision",
+    "href": "my-portfolio/tri-digital-marketing-strategy.html#mission-vision",
+    "title": "Trauma Resource Institute — Digital Marketing Strategy",
+    "section": "Mission & Vision",
+    "text": "Mission & Vision\nMission A worldwide nonprofit using innovative neuroscience-based techniques to uplift and empower people across all age groups with skill-based, affordable, and accessible tools.\nVision To see a society where people and communities fully accept their common humanity and are given resources to develop their underlying resilience."
+  },
+  {
+    "objectID": "my-portfolio/tri-digital-marketing-strategy.html#current-digital-marketing-assessment",
+    "href": "my-portfolio/tri-digital-marketing-strategy.html#current-digital-marketing-assessment",
+    "title": "Trauma Resource Institute — Digital Marketing Strategy",
+    "section": "Current Digital Marketing Assessment",
+    "text": "Current Digital Marketing Assessment\niChill Mobile App — TRI’s Primary Digital Tool\n\nTeaches six wellness skills: Tracking, Resourcing, Grounding, Gesturing, Help Now!/Reset Now!, Shift and Stay\nNo direct promotions for TRM or CRM programs\nNo clear CTAs directing users to the website\nConfusing navigation — “Resources” tab unclear to users\nOverview section too long and difficult to read\n$10,000 monthly Google Ads Grant underutilized"
+  },
+  {
+    "objectID": "my-portfolio/tri-digital-marketing-strategy.html#competitive-analysis-garrison-institute",
+    "href": "my-portfolio/tri-digital-marketing-strategy.html#competitive-analysis-garrison-institute",
+    "title": "Trauma Resource Institute — Digital Marketing Strategy",
+    "section": "Competitive Analysis — Garrison Institute",
+    "text": "Competitive Analysis — Garrison Institute\n“Care for Caregivers” App\n\nAvailable on App Store and Google Play\nSimple, easy-to-navigate design\nFocused on CBR (Community-Based Resilience) skills\nSimilar skills-based approach to TRI\nStronger in UX design and clear navigation than iChill"
+  },
+  {
+    "objectID": "my-portfolio/tri-digital-marketing-strategy.html#competitive-analysis-driven-resilience",
+    "href": "my-portfolio/tri-digital-marketing-strategy.html#competitive-analysis-driven-resilience",
+    "title": "Trauma Resource Institute — Digital Marketing Strategy",
+    "section": "Competitive Analysis — Driven Resilience",
+    "text": "Competitive Analysis — Driven Resilience\nDriven Resilience App\n\nAvailable on App Store and Google Play\nMore feature-rich: mood tracking, resilience scoring, daily skill-building\nUses PR6 resilience model\nStronger focus on brand building and program promotion\nKey gap TRI has: competitors promote training directly in-app more effectively"
+  },
+  {
+    "objectID": "my-portfolio/tri-digital-marketing-strategy.html#customer-segments",
+    "href": "my-portfolio/tri-digital-marketing-strategy.html#customer-segments",
+    "title": "Trauma Resource Institute — Digital Marketing Strategy",
+    "section": "Customer Segments",
+    "text": "Customer Segments\n\n\n\nSegment\nDescription\n\n\n\n\nMental Health Professionals\nTherapists, social workers — TRM tools\n\n\nCommunity Leaders\nEducators, activists — CRM tools\n\n\nTrauma Survivors\nSelf-paced recovery via iChill\n\n\nVeterans & First Responders\nMilitary, EMTs — PTSD management\n\n\nUnderserved Communities\nRural areas — affordable CRM tools"
+  },
+  {
+    "objectID": "my-portfolio/tri-digital-marketing-strategy.html#customer-journey",
+    "href": "my-portfolio/tri-digital-marketing-strategy.html#customer-journey",
+    "title": "Trauma Resource Institute — Digital Marketing Strategy",
+    "section": "Customer Journey",
+    "text": "Customer Journey\nAwareness Discover TRI via Google Ads, iChill app, or social media\nConsideration Explore the website, read testimonials, use the iChill app\nDecision Enroll in TRM or CRM programs and recommend TRI to others\n\nAffordable, science-backed tools attract diverse audiences — Google Ads can significantly expand TRI’s reach"
+  },
+  {
+    "objectID": "my-portfolio/tri-digital-marketing-strategy.html#recommendation-1-ichill-app-redesign",
+    "href": "my-portfolio/tri-digital-marketing-strategy.html#recommendation-1-ichill-app-redesign",
+    "title": "Trauma Resource Institute — Digital Marketing Strategy",
+    "section": "Recommendation 1 — iChill App Redesign",
+    "text": "Recommendation 1 — iChill App Redesign\n\nAdd a quiz pop-up to guide users toward TRM or CRM training\nRename “Resources” tab to “My Notes” for clarity\nShorten and simplify the Overview section\nImprove font sizes and overall readability\nAdd a new Trainings tab with:\n\nTRM and CRM program overviews\nClickable links to enroll\nBenefits and urgency-driven CTAs"
+  },
+  {
+    "objectID": "my-portfolio/tri-digital-marketing-strategy.html#recommendation-2-google-ads-strategy",
+    "href": "my-portfolio/tri-digital-marketing-strategy.html#recommendation-2-google-ads-strategy",
+    "title": "Trauma Resource Institute — Digital Marketing Strategy",
+    "section": "Recommendation 2 — Google Ads Strategy",
+    "text": "Recommendation 2 — Google Ads Strategy\nLeverage TRI’s $10,000/month Google Ads Grant\n\nTarget high-intent keywords: “CRM training near me,” “TRM certification,” “trauma resiliency training”\nGeo-targeting: focus on U.S., test UK and Canada\nRetargeting: reach users who visited training pages but didn’t convert\nCreate dedicated landing pages for high-potential queries\nTrack conversions with GA4 event setup"
+  },
+  {
+    "objectID": "my-portfolio/tri-digital-marketing-strategy.html#recommendation-3-seo-improvements",
+    "href": "my-portfolio/tri-digital-marketing-strategy.html#recommendation-3-seo-improvements",
+    "title": "Trauma Resource Institute — Digital Marketing Strategy",
+    "section": "Recommendation 3 — SEO Improvements",
+    "text": "Recommendation 3 — SEO Improvements\n\nRewrite meta titles and descriptions to match search intent\nCreate blog content targeting long-tail keywords\n\nExample: “How TRM Training Helps Educators”\n\nImprove internal linking from high-traffic pages to training pages\nBuild dedicated pages for:\n\n“CRM certification for therapists”\n“TRM training for educators”"
+  },
+  {
+    "objectID": "my-portfolio/tri-digital-marketing-strategy.html#conclusion",
+    "href": "my-portfolio/tri-digital-marketing-strategy.html#conclusion",
+    "title": "Trauma Resource Institute — Digital Marketing Strategy",
+    "section": "Conclusion",
+    "text": "Conclusion\nBy combining Google Ads optimization and iChill app improvements, TRI can:\n\nEnhance its digital presence\nBuild brand awareness\nIncrease TRM and CRM program enrollment\n\nThese strategies align with TRI’s mission of creating resilient, trauma-informed communities worldwide and make full use of available nonprofit digital marketing resources."
   }
 ]
