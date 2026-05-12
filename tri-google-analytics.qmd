@@ -10,9 +10,8 @@ format:
     transition: slide
     self-contained: true
     preview-links: true
-    footer: "[Home](../index.qmd) | [Digital Marketing](../digitalprojects.qmd) | [Marketing Analytics](../analyticsprojects.qmd)"
+    footer: "[Home](/index.html) | [Digital Marketing](/digitalprojects.html) | [Marketing Analytics](/analyticsprojects.html)"
 ---
-
 ## Project Overview
 
 A data analytics project analyzing real user behavior and website performance for **TRI (Trauma Resource Institute)**.
