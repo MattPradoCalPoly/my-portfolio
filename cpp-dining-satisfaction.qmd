@@ -1,0 +1,150 @@
+---
+title: "Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants"
+subtitle: "Quantitative Research Study — IBM 6500"
+author: "Matthew Prado, Bansi Khachar, Saurabh Parate & Jamie Min"
+date: "2024"
+format:
+  revealjs:
+    theme: moon
+    slide-number: true
+    transition: slide
+    self-contained: true
+---
+
+## Project Overview
+
+A quantitative research study examining the key drivers of student dining satisfaction at **Cal Poly Pomona's** on-campus restaurants.
+
+- 68 survey responses collected
+- Factors examined: food quality, cleanliness, price fairness, operational issues, and mobile ordering
+- Goal: identify what most significantly affects students' overall dining experience
+
+---
+
+## Tools & Frameworks Used
+
+- **Qualtrics** — survey design & data collection
+- **R** — statistical analysis
+- **SERVQUAL / RATER Framework** — Parasuraman et al., 1988
+- **Theory of Planned Behaviour** — Ajzen, 1991
+
+---
+
+## Research Question
+
+> *What factors (food, service, and operations) affect student satisfaction with Cal Poly Pomona Dining Services?*
+
+---
+
+## Methodology
+
+- **17-question Qualtrics survey** distributed via QR-code flyers and Instagram
+- Survey captured dining habits, venue experience, and satisfaction
+- Question types: Likert scales, multiple choice, net promoter score, open-ended
+- **Sample:** 68 valid responses from students who ate at campus dining venues
+
+---
+
+## Hypotheses Tested
+
+| Hypothesis | Description | Result |
+|---|---|---|
+| H1 | Operational factors stronger than food/price | ❌ Not Supported |
+| H2 | Food quality → higher satisfaction | ✅ Supported |
+| H3 | Mobile ordering users → higher satisfaction | ❌ Not Supported |
+| H4 | Cleanliness → higher satisfaction | ✅ Supported |
+
+---
+
+## Regression Analysis — H1
+
+**Price vs. Operations on Satisfaction**
+
+- Model significant: F(2, 44) = 11.67, p < .001, R² = .347
+- Price fairness: **β = .265, p < .001** ✅ significant
+- Operational factors: β = .068, p = .218 ❌ not significant
+- **H1 not supported** — price fairness had a stronger impact than operations
+
+---
+
+## Regression Analysis — H2
+
+**Food Quality on Satisfaction**
+
+- Model significant: F(1, 51) = 16.34, p < .001, R² = .243
+- Food quality: **β = 0.40, p < .001** ✅ significant
+- Students who rated food quality higher reported significantly higher satisfaction
+- **H2 supported**
+
+---
+
+## Regression Analysis — H3
+
+**Mobile Ordering on Satisfaction**
+
+- Model not significant: F(1, 47) = 3.23, p = .079, R² = .064
+- Mobile ordering: β = 0.21, p = .079 ❌ not significant
+- Positive trend but did not meet the α = .05 threshold
+- **H3 not supported**
+
+---
+
+## Regression Analysis — H4
+
+**Cleanliness on Satisfaction**
+
+- Model significant: F(1, 51) = 12.67, p = .001, R² = .199
+- Cleanliness: **β = 0.34, p = .001** ✅ significant
+- Students who rated dining areas as clean reported higher satisfaction
+- **H4 supported**
+
+---
+
+## Chi-Square Test
+
+**Campus Presence vs. Satisfaction**
+
+- χ²(4, N = 53) = 5.27, p = .261
+- **Not statistically significant**
+- How often students are on campus does not meaningfully relate to satisfaction
+
+---
+
+## Cluster Segmentation
+
+| Segment | Share | Profile |
+|---|---|---|
+| Satisfied Regulars | 35% | High ratings across food, cleanliness, service |
+| Value Seekers | 40% | Satisfaction driven by price & portion size |
+| Convenience-Driven Strugglers | 25% | Frustrated by wait times, hours, mobile ordering |
+
+---
+
+## Key Findings
+
+- **Food quality & cleanliness** were the strongest drivers of satisfaction
+- **Price fairness** mattered more than operational factors
+- **Mobile ordering** had no significant effect — lowest-rated attribute
+- **Centerpointe Dining** most visited (29 visits), followed by Panda Express & Starbucks (23 each)
+
+---
+
+## Conclusion
+
+Core service attributes — food quality, cleanliness, and price fairness — are the primary drivers of student dining satisfaction at Cal Poly Pomona.
+
+Campus dining services should prioritize:
+
+- Maintaining food quality standards
+- Ensuring cleanliness
+- Addressing price perception
+
+---
+
+## Limitations
+
+- **Sample size:** 68 respondents via convenience sampling
+- **Single institution & timeframe:** One university, one semester
+- **Self-report bias:** Recall and social desirability bias possible
+- **Measurement depth:** Some constructs captured with too few items
+- **Limited qualitative data:** Minimal open-ended responses

@@ -1,0 +1,172 @@
+---
+title: "Trauma Resource Institute — Digital Marketing Strategy"
+subtitle: "Google Ads, Competitive Analysis, Customer Segmentation & Growth Strategy — IBM 6010"
+author: "Matthew Prado, Bansi Khachar, Saurabh Parate & Muhammad Adnan Asif"
+date: "2024"
+format:
+  revealjs:
+    theme: moon
+    slide-number: true
+    transition: slide
+    self-contained: true
+---
+
+## Project Overview
+
+A comprehensive digital marketing strategy for **TRI (Trauma Resource Institute)** — a global nonprofit founded in 2006.
+
+- Assessed TRI's current digital marketing practices
+- Analyzed competitors in the trauma resilience space
+- Segmented customers and mapped their journey
+- Delivered actionable recommendations for growth
+
+---
+
+## About TRI
+
+- Founded: **October 2006**
+- Mission: Build resilient, trauma-informed individuals and communities worldwide
+- Uses neuroscience and body awareness techniques
+
+**Two flagship programs:**
+
+- **TRM** — Trauma Resiliency Model *(for mental health professionals)*
+- **CRM** — Community Resiliency Model *(for community leaders & public health)*
+
+---
+
+## Mission & Vision
+
+**Mission**
+A worldwide nonprofit using innovative neuroscience-based techniques to uplift and empower people across all age groups with skill-based, affordable, and accessible tools.
+
+**Vision**
+To see a society where people and communities fully accept their common humanity and are given resources to develop their underlying resilience.
+
+---
+
+## Current Digital Marketing Assessment
+
+**iChill Mobile App — TRI's Primary Digital Tool**
+
+- Teaches six wellness skills: Tracking, Resourcing, Grounding, Gesturing, Help Now!/Reset Now!, Shift and Stay
+- **No direct promotions** for TRM or CRM programs
+- No clear CTAs directing users to the website
+- Confusing navigation — "Resources" tab unclear to users
+- Overview section too long and difficult to read
+- **$10,000 monthly Google Ads Grant underutilized**
+
+---
+
+## Competitive Analysis — Garrison Institute
+
+**"Care for Caregivers" App**
+
+- Available on App Store and Google Play
+- Simple, easy-to-navigate design
+- Focused on CBR (Community-Based Resilience) skills
+- Similar skills-based approach to TRI
+- **Stronger in UX design and clear navigation than iChill**
+
+---
+
+## Competitive Analysis — Driven Resilience
+
+**Driven Resilience App**
+
+- Available on App Store and Google Play
+- More feature-rich: mood tracking, resilience scoring, daily skill-building
+- Uses PR6 resilience model
+- Stronger focus on **brand building and program promotion**
+- **Key gap TRI has:** neither competitor promotes training directly in-app as effectively
+
+---
+
+## Customer Segments
+
+| Segment | Description |
+|---|---|
+| Mental Health Professionals | Therapists, social workers — TRM tools |
+| Community Leaders | Educators, activists — CRM tools |
+| Trauma Survivors | Self-paced recovery via iChill |
+| Veterans & First Responders | Military, EMTs — PTSD management |
+| Underserved Communities | Rural areas — affordable CRM tools |
+
+---
+
+## Customer Journey
+
+**Awareness**
+Discover TRI via Google Ads, iChill app, or social media
+
+**Consideration**
+Explore the website, read testimonials, use the iChill app
+
+**Decision**
+Enroll in TRM or CRM programs and recommend TRI to others
+
+> Affordable, science-backed tools attract diverse audiences — Google Ads can significantly expand TRI's reach
+
+---
+
+## SWOT Analysis
+
+| | Strengths | Weaknesses |
+|---|---|---|
+| | Globally recognized nonprofit | Low app engagement & retention |
+| | Science-backed TRM/CRM programs | Underutilized Google Ads Grant |
+| | iChill app already established | No in-app program promotion |
+
+| | Opportunities | Threats |
+|---|---|---|
+| | $10K/month Google Ads Grant | Stronger competitor apps |
+| | English-speaking global markets | Privacy limiting demographic data |
+| | Social media growth potential | Low brand awareness outside U.S. |
+
+---
+
+## Recommendation 1 — iChill App Redesign
+
+- Add a **quiz pop-up** to guide users toward TRM or CRM training
+- Rename "Resources" tab to **"My Notes"** for clarity
+- Shorten and simplify the Overview section
+- Improve font sizes and overall readability
+- Add a new **Trainings tab** with:
+  - TRM and CRM program overviews
+  - Clickable links to enroll
+  - Benefits and urgency-driven CTAs
+
+---
+
+## Recommendation 2 — Google Ads Strategy
+
+Leverage TRI's **$10,000/month Google Ads Grant**
+
+- Target high-intent keywords: "CRM training near me," "TRM certification," "trauma resiliency training"
+- **Geo-targeting:** focus on U.S., test UK and Canada
+- **Retargeting:** reach users who visited training pages but didn't convert
+- Create dedicated landing pages for high-potential queries
+- Track conversions with GA4 event setup
+
+---
+
+## Recommendation 3 — SEO Improvements
+
+- Rewrite meta titles and descriptions to match search intent
+  - Change "Resiliency" → "Trauma Resilience Training Programs"
+- Create blog content targeting long-tail keywords
+  - Example: "How TRM Training Helps Educators"
+- Improve **internal linking** from high-traffic pages to training pages
+- Build dedicated pages for: "CRM certification for therapists" and "TRM training for educators"
+
+---
+
+## Conclusion
+
+By combining Google Ads optimization and iChill app improvements, TRI can:
+
+- Enhance its **digital presence**
+- Build **brand awareness**
+- Increase **TRM and CRM program enrollment**
+
+These strategies align with TRI's mission of creating resilient, trauma-informed communities worldwide and make full use of available nonprofit digital marketing resources.

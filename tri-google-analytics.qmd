@@ -1,0 +1,149 @@
+---
+title: "Behind the Scenes with Google Analytics"
+subtitle: "TRI Website Analysis — IBM 6100"
+author: "Matthew Prado, Saurabh Parate, Bhamini Pillai, Bansi Khachar & Lucynda Young"
+date: "2024"
+format:
+  revealjs:
+    theme: moon
+    slide-number: true
+    transition: slide
+    self-contained: true
+---
+
+## Project Overview
+
+A data analytics project analyzing real user behavior and website performance for **TRI (Trauma Resource Institute)**.
+
+- Data sources: Google Analytics 4, Google Tag Manager, Squarespace
+- Timeframe: February – April (3 months)
+- Goal: Identify trends in user behavior, acquisition, demographics, and landing page performance
+
+---
+
+## Tools & Data Sources
+
+- **Google Analytics 4 (GA4)**
+- **Google Tag Manager**
+- **Squarespace**
+- **Hotjar** *(recommended)*
+- **Google Optimize** *(recommended for A/B testing)*
+
+---
+
+## Acquisition Overview
+
+| Metric | Value |
+|---|---|
+| Active Users | 2,300 |
+| New Users | 2,100 |
+| Returning Users | 582 |
+| Retention Rate | 27.7% |
+| Most Active Days | April 23–24 (57 users) |
+
+- Higher engagement in the **middle to end** of each month
+- Lower engagement at the **beginning** of each month
+
+---
+
+## Traffic Sources
+
+| Channel | Sessions |
+|---|---|
+| Organic Search | 2,200 |
+| Direct | 1,500 |
+| Referral | 208 |
+| Organic Social | 84 |
+| Paid Search | 34 |
+| Email | 10 |
+
+- Organic Search & Direct traffic dominate
+- Social, Paid Search, and Email are significantly underdeveloped
+
+---
+
+## User Demographics
+
+- **87%+** of new users are U.S.-based
+- Female users (366) had the highest avg. session time: **146.5 seconds**
+- Unknown users averaged only 93.0 seconds — lower engagement
+- **80%+** of age data marked "unknown" due to privacy settings
+- Known users mostly aged **25–44** — strong digital audience
+
+---
+
+## Landing Page Performance
+
+| Page | New Users |
+|---|---|
+| Homepage | 486 |
+| /crm | 394 |
+| /ichill | 300 |
+| /trm | 194 |
+| /trm-trainings | 54 |
+| /crm-trainings | 33 |
+
+- Training pages have **low traffic** despite high intent
+- Need better SEO and internal linking
+
+---
+
+## Engagement Metrics
+
+- **9,210** page views — strong content visibility
+- **8,542** engagement events from 2,138 users
+- **3,940** session starts — indicates repeat visits
+- **1,678** scrolls by 949 users — deep content engagement
+- TRM pages avg. **1 min 52 sec** vs. 57 sec site average
+
+---
+
+## Key Findings
+
+- Organic search & direct traffic account for nearly all acquisition
+- TRM-related pages show significantly above-average engagement
+- Email engagement: 2 users, 22.22% engagement rate *(benchmark: 66%)*
+- Paid Search: only 17 users, 27.27% engagement rate
+- High-impression keywords like "resiliency" had **0% click-through rates**
+
+---
+
+## Recommendations
+
+**1. Optimize Landing Pages**
+Clear CTAs, trust signals, A/B testing
+
+**2. Enhance SEO**
+Rewrite metadata, create dedicated training pages, target long-tail keywords
+
+**3. Leverage Google Ads**
+Target high-intent keywords, geo-targeting, retargeting
+
+**4. Improve Demographic Tracking**
+Optional surveys, enhanced GA4 tracking
+
+**5. Boost Email & Social**
+Monthly newsletter, repurpose top content for LinkedIn & Instagram
+
+---
+
+## Conclusion
+
+TRI's website showed strong organic performance with a core audience of **U.S.-based females aged 25–44**.
+
+By focusing on:
+
+- Improved CTAs and landing pages
+- SEO optimization
+- Paid search campaigns
+- Better demographic tracking
+
+TRI can increase conversions and better promote CRM and TRM training programs.
+
+---
+
+## Challenges
+
+- **Data Gaps:** 80%+ of demographic data unknown
+- **Conversion Tracking:** Unable to analyze full conversion paths
+- **Time Constraints:** Only 3 months of data available

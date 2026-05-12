@@ -17,6 +17,14 @@ website:
             text: "Digital Marketing Projects"
           - href: analyticsprojects.qmd
             text: "Marketing Analytics Projects"
+      - text: Presentations
+        menu:
+          - href: tri-digital-marketing-strategy.qmd
+            text: "Project 1: Tri-Digital Marketing Strategy"
+          - href: tri-google-analytics.qmd
+            text: "Project 2: Tri-Google Analytics"
+          - href: cpp-dining-satisfaction.qmd.qmd
+            text: "Project 3: Dining Satisfaction"
 
 format:
   html:
