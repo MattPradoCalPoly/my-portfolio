@@ -23,6 +23,8 @@ website:
             text: "Project 2: TRI Google Analytics"
           - href: cpp-dining-satisfaction.qmd
             text: "Project 3: CPP Dining Satisfaction"
+      - href: website-traffic-analytics.qmd
+        text: "Website Traffic Analytics"
 
 format:
   html:
