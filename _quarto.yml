@@ -11,19 +11,18 @@ website:
         text: Home
       - href: resume.qmd
         text: Resume
-      - text: Projects
       - href: digitalprojects.qmd
         text: "Digital Marketing Projects"
       - href: analyticsprojects.qmd
         text: "Marketing Analytics Projects"
-      - text: Presentations
+      - text: "Presentations"
         menu:
           - href: tri-digital-marketing-strategy.qmd
-            text: "Project 1: Tri-Digital Marketing Strategy"
+            text: "Project 1: TRI Digital Marketing Strategy"
           - href: tri-google-analytics.qmd
-            text: "Project 2: Tri-Google Analytics"
+            text: "Project 2: TRI Google Analytics"
           - href: cpp-dining-satisfaction.qmd
-            text: "Project 3: Dining Satisfaction"
+            text: "Project 3: CPP Dining Satisfaction"
 
 format:
   html:

@@ -579,5 +579,103 @@
     "title": "Behind the Scenes with Google Analytics",
     "section": "Engagement Metrics",
     "text": "Engagement Metrics\n\n9,210 page views — strong content visibility\n8,542 engagement events from 2,138 users\n3,940 session starts — indicates repeat visits\n1,678 scrolls by 949 users — deep content engagement\nTRM pages avg. 1 min 52 sec vs. 57 sec site average"
+  },
+  {
+    "objectID": "my-portfolio/cpp-dining-satisfaction.html#project-overview",
+    "href": "my-portfolio/cpp-dining-satisfaction.html#project-overview",
+    "title": "Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "Project Overview",
+    "text": "Project Overview\nA quantitative research study examining the key drivers of student dining satisfaction at Cal Poly Pomona’s on-campus restaurants.\n\n68 survey responses collected\nFactors examined: food quality, cleanliness, price fairness, operational issues, and mobile ordering\nGoal: identify what most significantly affects students’ overall dining experience"
+  },
+  {
+    "objectID": "my-portfolio/cpp-dining-satisfaction.html#tools-frameworks-used",
+    "href": "my-portfolio/cpp-dining-satisfaction.html#tools-frameworks-used",
+    "title": "Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "Tools & Frameworks Used",
+    "text": "Tools & Frameworks Used\n\nQualtrics — survey design & data collection\nR — statistical analysis\nSERVQUAL / RATER Framework — Parasuraman et al., 1988\nTheory of Planned Behaviour — Ajzen, 1991"
+  },
+  {
+    "objectID": "my-portfolio/cpp-dining-satisfaction.html#research-question",
+    "href": "my-portfolio/cpp-dining-satisfaction.html#research-question",
+    "title": "Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "Research Question",
+    "text": "Research Question\n\nWhat factors (food, service, and operations) affect student satisfaction with Cal Poly Pomona Dining Services?"
+  },
+  {
+    "objectID": "my-portfolio/cpp-dining-satisfaction.html#methodology",
+    "href": "my-portfolio/cpp-dining-satisfaction.html#methodology",
+    "title": "Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "Methodology",
+    "text": "Methodology\n\n17-question Qualtrics survey distributed via QR-code flyers and Instagram\nSurvey captured dining habits, venue experience, and satisfaction\nQuestion types: Likert scales, multiple choice, net promoter score, open-ended\nSample: 68 valid responses from students who ate at campus dining venues"
+  },
+  {
+    "objectID": "my-portfolio/cpp-dining-satisfaction.html#hypotheses-tested",
+    "href": "my-portfolio/cpp-dining-satisfaction.html#hypotheses-tested",
+    "title": "Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "Hypotheses Tested",
+    "text": "Hypotheses Tested\n\n\n\nHypothesis\nDescription\nResult\n\n\n\n\nH1\nOperational factors stronger than food/price\n❌ Not Supported\n\n\nH2\nFood quality → higher satisfaction\n✅ Supported\n\n\nH3\nMobile ordering users → higher satisfaction\n❌ Not Supported\n\n\nH4\nCleanliness → higher satisfaction\n✅ Supported"
+  },
+  {
+    "objectID": "my-portfolio/cpp-dining-satisfaction.html#regression-analysis-h1",
+    "href": "my-portfolio/cpp-dining-satisfaction.html#regression-analysis-h1",
+    "title": "Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "Regression Analysis — H1",
+    "text": "Regression Analysis — H1\nPrice vs. Operations on Satisfaction\n\nModel significant: F(2, 44) = 11.67, p &lt; .001, R² = .347\nPrice fairness: β = .265, p &lt; .001 ✅ significant\nOperational factors: β = .068, p = .218 ❌ not significant\nH1 not supported — price fairness had a stronger impact than operations"
+  },
+  {
+    "objectID": "my-portfolio/cpp-dining-satisfaction.html#regression-analysis-h2",
+    "href": "my-portfolio/cpp-dining-satisfaction.html#regression-analysis-h2",
+    "title": "Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "Regression Analysis — H2",
+    "text": "Regression Analysis — H2\nFood Quality on Satisfaction\n\nModel significant: F(1, 51) = 16.34, p &lt; .001, R² = .243\nFood quality: β = 0.40, p &lt; .001 ✅ significant\nStudents who rated food quality higher reported significantly higher satisfaction\nH2 supported"
+  },
+  {
+    "objectID": "my-portfolio/cpp-dining-satisfaction.html#regression-analysis-h3",
+    "href": "my-portfolio/cpp-dining-satisfaction.html#regression-analysis-h3",
+    "title": "Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "Regression Analysis — H3",
+    "text": "Regression Analysis — H3\nMobile Ordering on Satisfaction\n\nModel not significant: F(1, 47) = 3.23, p = .079, R² = .064\nMobile ordering: β = 0.21, p = .079 ❌ not significant\nPositive trend but did not meet the α = .05 threshold\nH3 not supported"
+  },
+  {
+    "objectID": "my-portfolio/cpp-dining-satisfaction.html#regression-analysis-h4",
+    "href": "my-portfolio/cpp-dining-satisfaction.html#regression-analysis-h4",
+    "title": "Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "Regression Analysis — H4",
+    "text": "Regression Analysis — H4\nCleanliness on Satisfaction\n\nModel significant: F(1, 51) = 12.67, p = .001, R² = .199\nCleanliness: β = 0.34, p = .001 ✅ significant\nStudents who rated dining areas as clean reported higher satisfaction\nH4 supported"
+  },
+  {
+    "objectID": "my-portfolio/cpp-dining-satisfaction.html#chi-square-test",
+    "href": "my-portfolio/cpp-dining-satisfaction.html#chi-square-test",
+    "title": "Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "Chi-Square Test",
+    "text": "Chi-Square Test\nCampus Presence vs. Satisfaction\n\nχ²(4, N = 53) = 5.27, p = .261\nNot statistically significant\nHow often students are on campus does not meaningfully relate to satisfaction"
+  },
+  {
+    "objectID": "my-portfolio/cpp-dining-satisfaction.html#cluster-segmentation",
+    "href": "my-portfolio/cpp-dining-satisfaction.html#cluster-segmentation",
+    "title": "Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "Cluster Segmentation",
+    "text": "Cluster Segmentation\n\n\n\n\n\n\n\n\nSegment\nShare\nProfile\n\n\n\n\nSatisfied Regulars\n35%\nHigh ratings across food, cleanliness, service\n\n\nValue Seekers\n40%\nSatisfaction driven by price & portion size\n\n\nConvenience-Driven Strugglers\n25%\nFrustrated by wait times, hours, mobile ordering"
+  },
+  {
+    "objectID": "my-portfolio/cpp-dining-satisfaction.html#key-findings",
+    "href": "my-portfolio/cpp-dining-satisfaction.html#key-findings",
+    "title": "Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nFood quality & cleanliness were the strongest drivers of satisfaction\nPrice fairness mattered more than operational factors\nMobile ordering had no significant effect — lowest-rated attribute\nCenterpointe Dining most visited (29 visits), followed by Panda Express & Starbucks (23 each)"
+  },
+  {
+    "objectID": "my-portfolio/cpp-dining-satisfaction.html#conclusion",
+    "href": "my-portfolio/cpp-dining-satisfaction.html#conclusion",
+    "title": "Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "Conclusion",
+    "text": "Conclusion\nCore service attributes — food quality, cleanliness, and price fairness — are the primary drivers of student dining satisfaction at Cal Poly Pomona.\nCampus dining services should prioritize:\n\nMaintaining food quality standards\nEnsuring cleanliness\nAddressing price perception"
+  },
+  {
+    "objectID": "my-portfolio/cpp-dining-satisfaction.html#limitations",
+    "href": "my-portfolio/cpp-dining-satisfaction.html#limitations",
+    "title": "Customer Satisfaction of Students Eating at Cal Poly Pomona Restaurants",
+    "section": "Limitations",
+    "text": "Limitations\n\nSample size: 68 respondents via convenience sampling\nSingle institution & timeframe: One university, one semester\nSelf-report bias: Recall and social desirability bias possible\nMeasurement depth: Some constructs captured with too few items\nLimited qualitative data: Minimal open-ended responses"
   }
 ]

@@ -9,6 +9,8 @@ format:
     slide-number: true
     transition: slide
     self-contained: true
+    preview-links: true
+    footer: "[Home](../index.qmd) | [Digital Marketing](../digitalprojects.qmd) | [Marketing Analytics](../analyticsprojects.qmd)"
 ---
 
 ## Project Overview
@@ -102,7 +104,7 @@ A data analytics project analyzing real user behavior and website performance fo
 
 - Organic search & direct traffic account for nearly all acquisition
 - TRM-related pages show significantly above-average engagement
-- Email engagement: 2 users, 22.22% engagement rate *(benchmark: 66%)*
+- Email engagement: 2 users, 22.22% rate *(benchmark: 66%)*
 - Paid Search: only 17 users, 27.27% engagement rate
 - High-impression keywords like "resiliency" had **0% click-through rates**
 

@@ -9,6 +9,8 @@ format:
     slide-number: true
     transition: slide
     self-contained: true
+    preview-links: true
+    footer: "[Home](../index.qmd) | [Digital Marketing](../digitalprojects.qmd) | [Marketing Analytics](../analyticsprojects.qmd)"
 ---
 
 ## Project Overview
@@ -78,7 +80,7 @@ To see a society where people and communities fully accept their common humanity
 - More feature-rich: mood tracking, resilience scoring, daily skill-building
 - Uses PR6 resilience model
 - Stronger focus on **brand building and program promotion**
-- **Key gap TRI has:** neither competitor promotes training directly in-app as effectively
+- **Key gap TRI has:** competitors promote training directly in-app more effectively
 
 ---
 
@@ -106,22 +108,6 @@ Explore the website, read testimonials, use the iChill app
 Enroll in TRM or CRM programs and recommend TRI to others
 
 > Affordable, science-backed tools attract diverse audiences — Google Ads can significantly expand TRI's reach
-
----
-
-## SWOT Analysis
-
-| | Strengths | Weaknesses |
-|---|---|---|
-| | Globally recognized nonprofit | Low app engagement & retention |
-| | Science-backed TRM/CRM programs | Underutilized Google Ads Grant |
-| | iChill app already established | No in-app program promotion |
-
-| | Opportunities | Threats |
-|---|---|---|
-| | $10K/month Google Ads Grant | Stronger competitor apps |
-| | English-speaking global markets | Privacy limiting demographic data |
-| | Social media growth potential | Low brand awareness outside U.S. |
 
 ---
 
@@ -153,11 +139,12 @@ Leverage TRI's **$10,000/month Google Ads Grant**
 ## Recommendation 3 — SEO Improvements
 
 - Rewrite meta titles and descriptions to match search intent
-  - Change "Resiliency" → "Trauma Resilience Training Programs"
 - Create blog content targeting long-tail keywords
   - Example: "How TRM Training Helps Educators"
 - Improve **internal linking** from high-traffic pages to training pages
-- Build dedicated pages for: "CRM certification for therapists" and "TRM training for educators"
+- Build dedicated pages for:
+  - "CRM certification for therapists"
+  - "TRM training for educators"
 
 ---
 

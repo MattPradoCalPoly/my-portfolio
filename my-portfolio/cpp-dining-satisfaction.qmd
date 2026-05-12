@@ -9,6 +9,8 @@ format:
     slide-number: true
     transition: slide
     self-contained: true
+    preview-links: true
+    footer: "[Home](../index.qmd) | [Digital Marketing](../digitalprojects.qmd) | [Marketing Analytics](../analyticsprojects.qmd)"
 ---
 
 ## Project Overview
